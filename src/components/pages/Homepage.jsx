@@ -5,10 +5,12 @@ function Homepage() {
     return (
         <div className="homepage">
             <div className="about">
-                <p>Hello, I am Deborah, “Dee” Caulcrick, a designer, teacher and front-end engineer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br /> <br />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Hello, I am Deborah, “Dee” Caulcrick, a designer, teacher and front-end enthusiast. When I am not attending my CS classes (UNILAG), I build UIs, design wedding stationery, build Notion templates, and teach kids to code. <br /> <br />
+                    And when I am not doing any of those, I write, watch movies, and make memes.</p>
             </div>
             <div className="home-links">
                 <ul>
+                    <li><a href='mailto:deecaulcrick@gmail.com' target='_blank'>Email</a></li>
                     <li><a href='https://github.com/deecaulcrick' target='_blank'>Github</a></li>
                     <li><a href='https://twitter.com/deecaulcrick' target='_blank'>Twitter</a></li>
                     <li><a href='https://linkedin.com/in/deborah-caulcrick' target='_blank'>LinkedIn</a></li>

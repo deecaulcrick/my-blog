@@ -6,7 +6,7 @@ function Projects() {
     return (
         <div className="projects">
             <h1 className='page-title'>Projects</h1>
-            <p>Here's a list of projects I worked on in 2023</p>
+            <p>Here's a list of projects that made it to the internet:</p>
 
 
             <div className="project-list">

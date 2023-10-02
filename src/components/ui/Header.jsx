@@ -10,7 +10,7 @@ function Header() {
                 </div>
                 <div className="site-identity">
                     <h4 className="site-title">Dee Caulcrick's Blog</h4>
-                    <h5 className="site-subtitle">Designer, Engineer, Teacher.</h5>
+                    <h5 className="site-subtitle">Designer, Teacher, Engineer (in view).</h5>
                 </div>
             </div>
             <div className="navbar">
