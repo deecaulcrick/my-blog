@@ -6,7 +6,7 @@ function Homepage() {
     return (
         <div className="homepage">
             <div className="about">
-                <p>Hello, I am Deborah, “Dee” Caulcrick, a designer, teacher and front-end enthusiast. When I am not attending my CS classes (UNILAG), I build UIs, design wedding stationery, build <a href='https://www.notion.so/@deecaulcrick' target='_blank'>Notion templates,</a> and teach kids to code. <br /> <br />
+                <p>Hello, I am Deborah “Dee” Caulcrick, a designer, teacher and front-end enthusiast. When I am not attending my CS classes (UNILAG), I build UIs, design wedding stationery, create <a href='https://www.notion.so/@deecaulcrick' target='_blank'>Notion templates,</a> and teach kids to code. <br /> <br />
                     And when I am not doing any of those, I write, watch movies, and make memes.</p>
             </div>
             <div className="home-links">
