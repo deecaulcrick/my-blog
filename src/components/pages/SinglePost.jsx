@@ -43,7 +43,7 @@ function SinglePost() {
             </div>
             <BlogPost content={content} />
             <div className="post-footer">
-                <p>Reply via: <a>Email</a> or <a>Twitter</a></p>
+                <p>Reply via: <a href='mailto:deecaulcrick@gmail.com' target='_blank'>Email</a> or <a href='https://twitter.com/deecaulcrick' target='_blank'>Twitter</a></p>
             </div>
 
         </div>
