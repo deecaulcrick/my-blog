@@ -9,7 +9,7 @@ function Posts() {
     return (
         <div className="posts">
             <h1 className='page-title'>Posts</h1>
-            <p className='page-desc'>Here are my thoughts and explorations on computer science and web development.</p>
+            <p className='page-desc'>My thoughts and explorations on computer science, web development, cool software, and the occasional meme. </p>
 
             <PostList posts={posts} />
 

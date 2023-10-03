@@ -2,11 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import BlogPost from '../ui/BlogPost';
 import { Link } from "react-router-dom";
+import posts from '../../index/posts';
 
 function SinglePost() {
 
+
     let { slug } = useParams();
     const [content, setContent] = useState('');
+
 
     useEffect(() => {
         const fetchContent = async () => {
@@ -22,11 +25,27 @@ function SinglePost() {
         fetchContent();
     }, [slug]);
 
+    const currentPost = posts.filter(post => post.slug === slug)
+
+    console.log(currentPost[0].category);
+
     return (
         <div className="post">
             <Link to='/posts'>🡨 Back to all posts </Link>
+
+            <div className="tools-container">
+                {
+                    currentPost[0].category.map((category) => (
+                        <div className="tools">{category}</div>
+                    ))
+                }
+
+            </div>
             <BlogPost content={content} />
-            <p>Reply via: <a>Email</a> or <a>Twitter</a></p>
+            <div className="post-footer">
+                <p>Reply via: <a>Email</a> or <a>Twitter</a></p>
+            </div>
+
         </div>
     );
 }

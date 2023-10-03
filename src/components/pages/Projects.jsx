@@ -14,7 +14,17 @@ function Projects() {
                 {projects.map((project, id) => (
                     <div className='project-card' key={id}>
                         <h2><Link to={project.link}>{project.title}</Link></h2>
+
                         <p className='post-excerpt'>{project.desc}</p>
+
+                        <div className="tools-container">
+                            {project.tools.map((tool) => (
+                                <div className="tools">{tool}</div>
+
+
+                            ))}
+                        </div>
+
                         <a href={project.link} target='_blank' className='project-link'> 🡭 View project</a>
                     </div>
                 ))}

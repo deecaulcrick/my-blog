@@ -3,6 +3,8 @@
   --subtle-text: #ccc;
 }
 
+/* General Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,9 +14,25 @@
 body {
   background-color: #000B26;
   color: #fff;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
+p {
+  font-size: 18px;
+  line-height: 1.4em;
+}
+
+a {
+  color: var(--theme-color);
+}
+
+.page-title {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+
+/* Header styles start */
 .header {
   padding: 25px 30px;
   display: flex;
@@ -55,12 +73,17 @@ body {
 
 }
 
+/* Header styles end */
+
+/* Footer styles start */
 .footer {
   padding: 20px 30px;
   border-top: 1px solid #444;
   position: absolute;
   width: 100%;
 }
+
+/* footer styles end */
 
 .links li {
   color: var(--subtle-text);
@@ -74,11 +97,7 @@ body {
   padding: 30px 30px;
 }
 
-.about,
-p,
-li {
-  font-size: 20px;
-}
+/* Homepage styles start */
 
 .home-links {
   margin-top: 20px;
@@ -95,31 +114,40 @@ li {
   margin-top: 60px;
 }
 
-a {
-  color: var(--theme-color);
-}
-
-p {
-  line-height: 1.4em;
-}
+/* Card styles start */
 
 .post-card,
 .project-card {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
+
+.post-card p {
+  font-size: 18px;
+}
+
+.post-card a,
+.project-card a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.post-card a:hover,
+.project-card a:hover {
+  text-decoration: underline;
+}
+
 
 .post-card h2,
 .project-card h2 {
   margin-bottom: 10px;
   margin-top: 20px;
-  font-size: 30px;
+  font-size: 25px;
+  font-weight: 500;
 }
 
-.page-title {
-  font-size: 60px;
-  margin-bottom: 20px;
-}
+/* Card styles end */
 
+/* Project styles start */
 .project-list {
   margin-top: 5cqw;
 }
@@ -146,13 +174,7 @@ p {
   color: var(--theme-color);
 }
 
-.post-title {
-  margin: 20px 0px;
-}
-
-.post-content {
-  margin-bottom: 40px;
-}
+/* Blog post styles start */
 
 .blog-post {
   margin-top: 20px;
@@ -177,6 +199,11 @@ code {
   line-height: 1.3em;
   margin-bottom: 10px;
   margin-left: 20px;
+  font-size: 20px;
+}
+
+.blog-post img {
+  width: 100%;
 }
 
 .blog-post blockquote {
@@ -186,10 +213,7 @@ code {
   padding: 20px;
 }
 
-.post-list {
-  margin-top: 30px;
-}
-
+/* this is the date style */
 .blog-post h6 {
   color: var(--subtle-text);
   font-weight: 400;
@@ -197,6 +221,39 @@ code {
   margin-bottom: 7px;
 }
 
+/* Blog post styles end */
+
+.post-list {
+  margin-top: 30px;
+}
+
+/* Category/tools styles start */
+
+.tools-container {
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+
+.tools {
+  list-style-type: none;
+  font-size: 14px;
+  display: inline;
+  width: fit-content;
+  height: 40px;
+  padding: 10px;
+  background: rgba(39, 49, 74, 0.60);
+  backdrop-filter: blur(15px);
+  border-radius: 5px;
+  border: 1px solid #103B5B;
+  margin-right: 10px;
+}
+
+.post-footer {
+  border-top: 1px solid #393939;
+  padding: 20px;
+  margin-top: 40px;
+  text-align: center;
+}
 
 @media only screen and (min-width: 768px) {
   /* For Desktops */
@@ -218,7 +275,7 @@ code {
   }
 
   .blog-post h1 {
-    font-size: 60px;
+    font-size: 50px;
   }
 
   .blog-post p,

@@ -6,7 +6,7 @@ function Header() {
         <div className="header">
             <div className="logo-bar">
                 <div className="logo">
-                    <img src={logo} />
+                    <img src={logo} width='60px' />
                 </div>
                 <div className="site-identity">
                     <h4 className="site-title">Dee Caulcrick's Blog</h4>

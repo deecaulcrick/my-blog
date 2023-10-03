@@ -4,9 +4,7 @@ import { Link } from 'react-router-dom';
 
 function LatestPosts() {
 
-    const latestPosts = posts.slice(0, 3);
-
-    console.log(latestPosts); // Output: [1, 2, 3, 4]
+    const latestPosts = posts.slice(0, 4);
 
     return (
         <div className="latest-posts">

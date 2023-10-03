@@ -15,17 +15,17 @@ Of all the hardest question to answer, this has to be top 3. Because Notion does
 The Notion website describes it as:
 > “Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want.”
 
-At its simplest, a Notion page is a basic text editor and at its most advanced, its a combination of 50+ content blocks including databases. Imagine Google Drive, Trello, Asana, Google Keep, Evernote and GitHub Wiki combined into one. That’s what Notion is and more. 
+At its simplest, a Notion page is a basic text editor and at its most advanced, it's a combination of 50+ content blocks including databases. Imagine Google Drive, Trello, Asana, Google Keep, Evernote and GitHub Wiki combined into one. That’s what Notion is and more. 
 
-Unlike your regular to-do list or notetaking app which allows you to write notes, add a checklist or maybe even pin a few images, Notion offers a lot more content options such as : Calendars, timelines, kanban boards, embed features, databases, code, web bookmarks, audio, video, and so much more.
+Unlike your regular to-do list or notetaking app which allows you to write notes, add a checklist or maybe even pin a few images, Notion offers a lot more content options such as: Calendars, timelines, kanban boards, embed features, databases, code, web bookmarks, audio, video, and so much more.
 
 ## What can you do with notion?
 
-The possibilities of what you can do with Notion are a lot. While before, you had to have a whole bunch of other apps, now with Notion you can do everything. 
+The possibilities of what you can do with Notion are a almost endless. While before, you had to have a whole bunch of other apps, now with Notion you can do everything. 
 
 Every Notion page is a blank canvas that can be transformed to fit the individual. You have the option of dragging and dropping 50+ content blocks (such as, Calendars, timelines, kanban boards, embeds, databases, code, web bookmarks, audio, video, and so much more) wherever you want.
 
-Personally, I use Notion to make lists, track books I’ve read, manage money, plan, manage and write blog post content, manage client projects, manage school work, store code snippets and also as a digital planner. There are companies that use Notion as a collaboration tool, company wiki, and onboarding tool and I have seen instances of Notion pages being used as portfolios, websites and client portals. 
+Personally, I use Notion to make lists, track books I’ve read, manage money, plan, manage and write blog post content, manage client projects, manage school work, store code snippets and also as a digital planner. There are companies that use Notion as a collaboration tool, company wiki, and onboarding tool. I have also seen instances of Notion pages being used as portfolios, websites and client portals. 
 
 Basically anything that requires laying out information, keeping it organized and/or enabling it to be shared, Notion is the tool of choice.
 
@@ -46,50 +46,51 @@ Basically anything that requires laying out information, keeping it organized an
 ### How to use Notion for daily life:
 - Periodic journaling
 - Tracking individual income and expenses
-- Managing my weekly agenda
+- Managing a weekly agenda
 - Digital yearly planner
 - Organizing ideas
 
 ## Why should you use Notion for Productivity?
 
-1. **It’s a text editor**
+1. **It’s a text editor.**
 If all you want to do is take a few notes or make a list, all you have to do is click **New page** and start typing.
-2. **But it’s much more than just a text editor**
-Text editing is Notion at it’s simplest. It has a whole lot of features that can take it from just a simple note taking app to an all-in-one productivity tool
-3. **It’s highly customizable**
+2. **But it’s much more than just a text editor.**
+Text editing is Notion at its simplest. It has a whole lot of features that can take it from just a simple note taking app to an all-in-one productivity tool
+3. **It’s highly customizable.**
 This is one of the features that makes Notion such a great productivity tool. Everything in Notion is a block. Every heading, paragraph, list or embed is a block. This makes it easy to drag them around the page and arrange them any way you want.
 4. **It makes organization fun.**
 One thing I noticed was my pages beginning to come together whenever I added personal touches such as an anime gif that expresses my mood towards that topic, a fun emoji or a really cool animated header.
-5. **It has a really clean and minimal interface**
-The Notion interface is really clean and simple. Yes, Notion packs a ton of functionality, the interface isn’t cluttered up with a bunch of menus and widgets. So even though functionality is easily accessible, it is hidden away until you actually need it.
-6. **Notion is great for developers**
+5. **It has a really clean and minimal interface.**
+The Notion interface is really clean and simple. Yes, Notion packs a ton of functionality but the interface isn’t cluttered up with a bunch of menus and widgets. So even though functionality is easily accessible, it is hidden away until you actually need it.
+6. **Notion is great for developers.**
 What can I say? I have a dashboard filled with code snippets. Oh, and code highlighting supports up to 50+ languages. Need I say more?
-7. **Notion is built for teams**
+7. **Notion is built for teams.**
 Notion is a collaboration tool. You can easily reference a team member by just using **@ links.** Controlling who can access what is also easy with Notion. 
-8. **Notion databases are highly flexible**
+8. **Notion databases are highly flexible.**
 Notion database tables work just like spreadsheets. Except unlike Google Sheets, you can convert your database table to a list, a calendar, a kanban board, a timeline, or a gallery depending on which view you like.
-9. **Embed anything**
+9. **Embed anything.**
 And I mean anything. In Notion you can embed anything from a simple pdf, to a google map, to a Figma file to a GitHub gist and so much more. Notion supports about 20 embeds 
-10. **Tons of template options**
-For Notion newbies, the functionality might be overwhelming but Notion helps you get started by providing you with in-app templates to help you get started. Also Notion fans (like myself) have created a ton of templates, both free and paid, which you can also use. 
-11. **Notion is affordable**
+10. **Tons of template options.**
+For Notion newbies, the functionality might be overwhelming but Notion helps you get started by providing you with in-app templates. Also Notion fans (like myself) have created a ton of templates, both free and paid, which you can also use. 
+11. **Notion is affordable.**
 For most people, all you will ever need is the free version. Forever.
 
 ## What is a Notion dashboard?
-A Notion dashboard is a page on Notion where you can write, think and plan around a particular activity or set of activities. For example, I have a page which serves as my Editorial Dashboard. That particular page serves as a sort of homepage for all my writing, blogging and content creating activities. So it is a combination of all the other little pages linking to one big page. You can have a Finance dashboard that serves as a homepage for all things money (i.e. a page that houses all your income, expenses and budget pages). I also have a planner dashboard that houses my goals, page, my weekly dashboard, my editorial dashboard and several other pages. Today, I’m going to show you how you can create a simple Weekly Agenda dashboard. That is, a homepage for all your weekly activities. Think of it as less of a to-do list and more of a planner. 
+A Notion dashboard is a page on Notion where you can write, think and plan around a particular activity or set of activities. For example, I have a page which serves as my Editorial Dashboard. That particular page serves as a sort of homepage for all my writing, blogging and content creating activities. So it is a combination of all the other little pages linking to one big page. You can have a Finance dashboard that serves as a homepage for all things money (i.e. a page that houses all your income, expenses and budget pages). I also have a planner dashboard that houses my goals, page, my weekly dashboard, my editorial dashboard and several other pages. 
 
 ## How to set up Notion
 **Step 1:** Go to [notion.so](http://notion.so) and create an account. You can also sign up with the Google account you have logged into your device.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1269ded-ee60-41e0-a769-41fb91c186ea/Untitled.png)
+![Intro to notion](images/intro-to-notion-1.png)
 
-**Step 2:** Download the apps to your mobile (via Google Play Store or the Apple App Store) or to your desktop via [notion.so/desktop](http://notion.so/desktop). Although you can use Notion via a web page, having the app, especially the desktop app, is way more convenient. 
+**Step 2:** Download the apps to your mobile (via Google Play Store or the Apple App Store) or to your desktop via [notion.so/desktop](http://notion.so/desktop). 
 
-“Add a protip about preferring the desktop app way more than the mobile app.”
+While you can use Notion through a web browser, having the app, especially the one on your computer, is much easier. It gives you a bigger screen and more useful features. This helps you get more done, switch between tasks smoothly, edit things better, connect with other apps seamlessly, use your mouse and keyboard more accurately, and work even when you're not connected to the internet.
+
 
 **Step 3:** Once you have everything setup, you’re ready to create your first page. At the bottom of your sidebar, click **+ New page.** A brand new page will open up with options to view templates or pick a type of page to build.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00262206-0fc6-4f1e-ade4-5473aa0a5efb/Untitled.png)
+![Intro to notion](images/intro-to-notion-2.png)
 
 **Step 4:** Start with a template or just being typing.Use the **“/ “** command to bring up a menu of blocks. You can add any block you want by typing its name after the **“/”** or scrolling to the one you want.
 
@@ -107,13 +108,13 @@ Because I know how daunting it can be, I created a Notion template to help you m
 
 **Step 2:** On the top right, click **Duplicate**. If you aren’t signed in to your Notion, you will be prompted to sign in. 
 
-![Screenshot (83).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91eeb55c-1893-4352-9a39-f9dd5d571579/Screenshot_(83).png)
+![Intro to notion](images/intro-to-notion-3.png)
 
 **Step 3:** Start using the template! You can play around with it, add or delete blocks, and change whatever you like. 
 
 **Tip:** Don’t try to edit the original template directly. You have to duplcate and edit your duplicated version. Even if you try editing my version, it won’t work 😆
 
-## # Tips and Reminders for setting up a Notion dashboard (Optional)
+## Tips and Reminders for setting up a Notion dashboard
 
 Notion has a lot of functionality, which is great. But if you’re like me, it’s easy to get overwhelmed by all the options so here are a few things to remember:
 
