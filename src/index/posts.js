@@ -1,5 +1,12 @@
 const posts = [
     {
+        id: 3,
+        title: 'Messy Desks and Brilliant Minds: Embracing the Chaos of Creativity',
+        slug: 'messy-desks-brilliant-minds',
+        excerpt: "In the world of creativity, messy desks aren't a sign of disorder; they're a testament to the vibrant minds that inhabit them. ",
+        category: ['Creativity', 'Productivity'],
+    },
+    {
         id: 2,
         title: 'An introduction to Notion dashboards and how they can improve your productivity',
         slug: 'introduction-to-notion',
